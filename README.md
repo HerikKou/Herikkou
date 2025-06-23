@@ -44,12 +44,13 @@ Sempre buscando aprender e melhorar, com foco em qualidade e inovação.
 
 <div align="center">
 
-[![Gerador de Senhas](https://img.shields.io/badge/-Gerador%20de%20Senhas-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Herikkou/gerador-de-senhas)  
-[![Lista de Tarefas](https://img.shields.io/badge/-Lista%20de%20Tarefas-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Herikkou/lista-de-tarefas)  
-[![CRUD Java](https://img.shields.io/badge/-CRUD%20Java-Java-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Herikkou/sistema-login-java)  
-[![Churrascaria HTML/CSS](https://img.shields.io/badge/-Churrascaria-HTML5-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Herikkou/churrascaria-html-css)
+[![Gerador de Senhas](https://img.shields.io/github/languages/top/Herikkou/gerador-de-senhas?style=for-the-badge&logo=javascript)](https://github.com/Herikkou/gerador-de-senhas)  
+[![Lista de Tarefas](https://img.shields.io/github/languages/top/Herikkou/lista-de-tarefas?style=for-the-badge&logo=html5)](https://github.com/Herikkou/lista-de-tarefas)  
+[![CRUD Java](https://img.shields.io/github/languages/top/Herikkou/sistema-login-java?style=for-the-badge&logo=java)](https://github.com/Herikkou/sistema-login-java)  
+[![Churrascaria HTML/CSS](https://img.shields.io/github/languages/top/Herikkou/churrascaria-html-css?style=for-the-badge&logo=html5)](https://github.com/Herikkou/churrascaria-html-css)
 
 </div>
+
 
 ---
 
