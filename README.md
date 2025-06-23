@@ -41,6 +41,7 @@ Sempre buscando aprender e melhorar, com foco em qualidade e inovação.
 ---
 
 ## 📂 Projetos em Destaque
+<div align="center">
 
 | Projeto               | Link do Repositório                                       |
 |-----------------------|----------------------------------------------------------|
@@ -48,7 +49,7 @@ Sempre buscando aprender e melhorar, com foco em qualidade e inovação.
 | Lista de Tarefas      | [GitHub](https://github.com/Herikkou/lista-de-tarefas)  |
 | CRUD Java             | [GitHub](https://github.com/Herikkou/sistema-login-java) |
 | Churrascaria HTML/CSS | [GitHub](https://github.com/Herikkou/churrascaria-html-css) |
-
+</div>
 
 ---
 
