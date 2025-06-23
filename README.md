@@ -10,7 +10,6 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Herikkou?style=social)](https://github.com/Herikkou)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Herikkou/sistema-login-java?color=blue)](https://github.com/Herikkou/sistema-login-java)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/herik-kato-a0364b324)
 
 
