@@ -42,14 +42,12 @@ Sempre buscando aprender e melhorar, com foco em qualidade e inovação.
 
 ## 📂 Projetos em Destaque
 
-<div align="center">
-
-[![Gerador de Senhas](https://img.shields.io/github/languages/top/Herikkou/gerador-de-senhas?style=for-the-badge&logo=javascript)](https://github.com/Herikkou/gerador-de-senhas)  
-[![Lista de Tarefas](https://img.shields.io/github/languages/top/Herikkou/lista-de-tarefas?style=for-the-badge&logo=html5)](https://github.com/Herikkou/lista-de-tarefas)  
-[![CRUD Java](https://img.shields.io/github/languages/top/Herikkou/sistema-login-java?style=for-the-badge&logo=java)](https://github.com/Herikkou/sistema-login-java)  
-[![Churrascaria HTML/CSS](https://img.shields.io/github/languages/top/Herikkou/churrascaria-html-css?style=for-the-badge&logo=html5)](https://github.com/Herikkou/churrascaria-html-css)
-
-</div>
+| Projeto               | Link do Repositório                                       |
+|-----------------------|----------------------------------------------------------|
+| Gerador de Senhas     | [GitHub](https://github.com/Herikkou/gerador-de-senhas) |
+| Lista de Tarefas      | [GitHub](https://github.com/Herikkou/lista-de-tarefas)  |
+| CRUD Java             | [GitHub](https://github.com/Herikkou/sistema-login-java) |
+| Churrascaria HTML/CSS | [GitHub](https://github.com/Herikkou/churrascaria-html-css) |
 
 
 ---
