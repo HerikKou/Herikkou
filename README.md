@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Herikkou?style=social)](https://github.com/Herikkou)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Herikkou/sistema-login-java?color=blue)](https://github.com/Herikkou/sistema-login-java)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/herik-kato-a0364b324)
-[![Twitter](https://img.shields.io/twitter/follow/herikkou?style=social)](https://twitter.com/herikkou)
+
 
 </div>
 
@@ -67,12 +67,12 @@ Sempre buscando aprender e melhorar, com foco em qualidade e inovação.
 <p align="center">
 📧 herikkou@gmail.com  
 🔗 <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>  
-🐦 <a href="https://twitter.com/herikkou" target="_blank">twitter.com/herikkou</a>
+
 </p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Herik Kato</strong>
+  Made with  by <strong>Herik Kato</strong>
 </p>
 
