@@ -1,58 +1,51 @@
+
+
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/7453239/158058203-7d7100d3-7b62-4a6a-9c3b-f79acac04144.gif" alt="banner animado" />
 </p>
 
-<h1 align="center">👨🏻‍💻 Herik Kato</h1><p align="center"><p align="center">
-  
+<h1 align="left">👨🏻‍💻 Herik Kato</h1>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF de programação" />
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="225" align="right" style="margin-left: 100px;" />
 
-<p align="center"><em>Transformando lógica em soluções reais. Apaixonado por backend e aprendizado contínuo.</em></p>
+<p><em>Transformando lógica em soluções reais. Apaixonado por backend e aprendizado contínuo.</em></p>
 
----
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Herikkou?style=social)](https://github.com/Herikkou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/herik-kato-a0364b324)
 
+
 </div>
 
 ---
 
+
 ## 🚀 Sobre Mim
 
-<p align="center" style="font-size: 1.1rem;">
-Sou estudante de Análise e Desenvolvimento de Sistemas na UMC, com foco em desenvolvimento backend Java.<br />
-Busco criar soluções robustas e eficientes, sempre prezando por organização, qualidade de código e boas práticas.<br />
-Atualmente, estou ampliando conhecimentos em arquitetura de software e desenvolvimento de APIs escaláveis.
-</p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC, apaixonado por backend com **Java** e criação de APIs REST escaláveis.  
+Busco criar soluções robustas e eficientes, prezando por **organização**, **qualidade de código** e **boas práticas**.  
+Atualmente estudando **arquitetura de software**, **testes automatizados** e **integração com bancos de dados**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
 </p>
 
 ---
 
-## 📚 Atualmente Estudando
-- Desenvolvimento de APIs REST com **Spring Boot**
-- **Arquitetura em camadas** e boas práticas de código
-- **Integração com Banco de Dados** usando JPA/Hibernate
-
----
-
 ## 📂 Projetos em Destaque
+
 <div align="center">
 
 | Projeto               | Link |
@@ -88,4 +81,5 @@ Atualmente, estou ampliando conhecimentos em arquitetura de software e desenvolv
 <p align="center">
   Made with ❤️ by <strong>Herik Kato</strong>
 </p>
+
 
