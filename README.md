@@ -5,7 +5,7 @@
 <h1 align="center">👨🏻‍💻 Herik Kato</h1><p align="center"><p align="center">
   
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="GIF de programação" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF de programação" />
 </p>
 
 <p align="center"><em>Transformando lógica em soluções reais. Apaixonado por backend e aprendizado contínuo.</em></p>
