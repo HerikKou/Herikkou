@@ -79,7 +79,7 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Herik Kato</strong>
+  Made with  by <strong>Herik Kato</strong>
 </p>
 
 
