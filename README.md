@@ -72,8 +72,8 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 ## 📫 Contato
 
 <p align="center">
-📧 herikkou@gmail.com  
-🔗 <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>  
+📧 Email: herikkou@gmail.com  <br>
+🔗LinkedIn: <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>  
 </p>
 
 ---
