@@ -31,28 +31,28 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 ### 💻 Linguagens de Programação
 <p align="center">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
 
 ### ⚙️ Frameworks & Bibliotecas
 <p align="center">
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
 ### 🗄️ Banco de Dados
 <p align="center">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ### 🛠️ Ferramentas & Controle de Versão
 <p align="center">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-  <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="35" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" />
 
 
 ---
@@ -63,11 +63,11 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 | Projeto                                    | Link |
 |--------------------------------------------|------|
-| **Painel Unificado de Cliente – API Java** | [🔗 GitHub](https://github.com/Herikkou/painel-unificado-java) |
-| Gerador de Senhas                           | [🔗 GitHub](https://github.com/Herikkou/gerador-de-senhas) |
-| Lista de Tarefas                            | [🔗 GitHub](https://github.com/Herikkou/lista-de-tarefas) |
-| CRUD Java                                   | [🔗 GitHub](https://github.com/Herikkou/sistema-login-java) |
-| Churrascaria HTML/CSS                       | [🔗 GitHub](https://github.com/Herikkou/churrascaria-html-css) |
+| **Simulador de Microserviço** | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
+| **Gerenciador de produtos**                   | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
+| **Authenticação via JWT**                         | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
+| **Desafio Tecnico EVEO**                                 | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
+| **Design Patterns(Builder)-Java**                       | [🔗 GitHub](https://github.com/Herikkou/churrascaria-html-css](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder ) |
 
 </div>
 
