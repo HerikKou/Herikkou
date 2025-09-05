@@ -1,26 +1,23 @@
-
-
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/7453239/158058203-7d7100d3-7b62-4a6a-9c3b-f79acac04144.gif" alt="banner animado" />
 </p>
 
 <h1 align="left">👨🏻‍💻 Herik Kato</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="225" align="right" style="margin-left: 100px;" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="220" align="right" style="margin-left: 50px;" />
 
-<p><em>Transformando lógica em soluções reais. Apaixonado por backend e aprendizado contínuo.</em></p>
-
+<p><em>Transformando lógica em soluções reais. focado em backend e aprendizado contínuo.</em></p>
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Herikkou?style=social)](https://github.com/Herikkou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/herik-kato-a0364b324)
-
-
+  <a href="https://github.com/Herikkou">
+    <img src="https://img.shields.io/github/followers/Herikkou?style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://linkedin.com/in/herik-kato-a0364b324">
+    <img src="https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </div>
 
 ---
-
 
 ## 🚀 Sobre Mim
 
@@ -32,15 +29,31 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 💻 Linguagens de Programação
 <p align="center">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
 </p>
+
+### ⚙️ Frameworks & Bibliotecas
+<p align="center">
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+</p>
+
+### 🗄️ Banco de Dados
+<p align="center">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+</p>
+
+### 🛠️ Ferramentas & Controle de Versão
+<p align="center">
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="35" />
+
 
 ---
 
@@ -48,13 +61,13 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 <div align="center">
 
-| Projeto               | Link |
-|-----------------------|------|
+| Projeto                                    | Link |
+|--------------------------------------------|------|
 | **Painel Unificado de Cliente – API Java** | [🔗 GitHub](https://github.com/Herikkou/painel-unificado-java) |
-| Gerador de Senhas     | [🔗 GitHub](https://github.com/Herikkou/gerador-de-senhas) |
-| Lista de Tarefas      | [🔗 GitHub](https://github.com/Herikkou/lista-de-tarefas) |
-| CRUD Java             | [🔗 GitHub](https://github.com/Herikkou/sistema-login-java) |
-| Churrascaria HTML/CSS | [🔗 GitHub](https://github.com/Herikkou/churrascaria-html-css) |
+| Gerador de Senhas                           | [🔗 GitHub](https://github.com/Herikkou/gerador-de-senhas) |
+| Lista de Tarefas                            | [🔗 GitHub](https://github.com/Herikkou/lista-de-tarefas) |
+| CRUD Java                                   | [🔗 GitHub](https://github.com/Herikkou/sistema-login-java) |
+| Churrascaria HTML/CSS                       | [🔗 GitHub](https://github.com/Herikkou/churrascaria-html-css) |
 
 </div>
 
@@ -73,13 +86,6 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 <p align="center">
 📧 Email: herikkou@gmail.com  <br>
-🔗LinkedIn: <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>  
+🔗 LinkedIn: <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>
 </p>
-
----
-
-<p align="center">
-  Made with  by <strong>Herik Kato</strong>
-</p>
-
 
