@@ -1,7 +1,7 @@
 <img width="1536" height="672" alt="image" src="https://github.com/user-attachments/assets/18f241b7-6389-40d3-bddd-94a435470138" />
 
 <h1 align="center">👨🏻‍💻 Herik Kato</h1>
-<h3 align="center">Desenvolvedor Backend Java | Especialista em APIs REST</h3>
+<h3 align="center">Desenvolvedor Backend Java |  APIs REST</h3>
 
 <p align="center">
   <a href="https://github.com/Herikkou">
