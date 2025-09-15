@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="55%" src="https://assets-persist.lovart.ai/agent_images/f698ad9f-ed55-4e60-a634-3a3132c73ebb.png" alt="Banner Herik Kato - Desenvolvedor Backend Java" />
+  <img width="70%" src="https://assets-persist.lovart.ai/agent_images/f698ad9f-ed55-4e60-a634-3a3132c73ebb.png" alt="Banner Herik Kato - Desenvolvedor Backend Java" />
 </p>
 <h1 align="center">👨🏻‍💻 Herik Kato</h1>
 <h3 align="center">Desenvolvedor Backend Java | Especialista em APIs REST</h3>
