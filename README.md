@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Herikkou&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustra￧￣o de um computador" width="320" align="right" style="margin-left: 25px;" />
 
 <h1>💡 Sobre Mim </h1>
 
