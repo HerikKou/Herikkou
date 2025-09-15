@@ -1,94 +1,112 @@
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/7453239/158058203-7d7100d3-7b62-4a6a-9c3b-f79acac04144.gif" alt="banner animado" />
+  <img width="100%" src="https://assets-persist.lovart.ai/agent_images/f698ad9f-ed55-4e60-a634-3a3132c73ebb.png" alt="Banner Herik Kato - Desenvolvedor Backend Java" />
 </p>
+<h1 align="center">👨🏻‍💻 Herik Kato</h1>
+<h3 align="center">Desenvolvedor Backend Java | Especialista em APIs REST</h3>
 
-<h1 align="left">👨🏻‍💻 Herik Kato</h1>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="220" align="right" style="margin-left: 50px;" />
-
-<p><em>Transformando lógica em soluções reais. Focado em backend e aprendizado contínuo.</em></p>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Herikkou">
     <img src="https://img.shields.io/github/followers/Herikkou?style=social" alt="GitHub followers"/>
   </a>
   <a href="https://linkedin.com/in/herik-kato-a0364b324">
-    <img src="https://img.shields.io/badge/LinkedIn-Herik-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Herik_Kato-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC, apaixonado por backend com **Java** e criação de APIs REST escaláveis.  
-Busco criar soluções robustas e eficientes, prezando por **organização**, **qualidade de código** e **boas práticas**.  
-Atualmente estudando **arquitetura de software**, **testes automatizados** e **integração com bancos de dados**.  
-
-
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Linguagens de Programação
-<p align="center">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <a href="mailto:herikkou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-herikkou%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Herikkou&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-### ⚙️ Frameworks & Bibliotecas
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustra￧￣o de um computador" width="320" align="right" style="margin-left: 25px;" />
+
+<h1>💡 Sobre Mim </h1>
+
+Transformando l￳gica em solu￧￵es reais. Focado em backend e aprendizado continuo.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC, apaixonado por desenvolvimento backend com **Java** e cria￧￣o de **APIs REST** escaláveis.
+
+
+- Estudando  **Docker** e **Kubernetes**
+- Buscando oportunidades para aplicar conhecimentos em **Java** e **Spring Boot**
+-  Comprometido com código limpo, testes automatizados e boas práticas
+-  Sempre em busca de novos conhecimentos e desafios técnicos
+
+<h1>🛠️ Stack Tecnológica</h1>
+
+<h3>💻 Linguagens</h3>
 <p align="center">
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Banco de Dados
+<h3> ⚙️ Frameworks & Bibliotecas</h3>
 <p align="center">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+ 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🛠️ Ferramentas & Controle de Versão
+<h3> 🗄️ Bancos de Dados</h3>
 <p align="center">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
+<h3>🔧 Ferramentas</h3>
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-## 📂 Projetos em Destaque
+ 
+</p>
+
+<h3> 📚 Aprendendo Atualmente</h3>
+
+<p align="center">
+
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+ 
+</p>
+
+<h1> 📋 Principais Projetos</h1>
+
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| **Simulador de Microservi￧o** | Implementa￧￣o de arquitetura de microsserviços com comunicação entre APIs | Java (puro) | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
+| **Gerenciador de Produtos** | Sistema CRUD completo para gerenciamento de produtos com autenticação | Java, Spring Boot, JPA, MySQL | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
+| **Autentica￧￣o via JWT** | Sistema de autenticação segura utilizando tokens JWT | Java, Spring Security, JWT | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
+| **Desafio T￩cnico EVEO** | Solução para desafio técnico com implementação de API REST | Java, Spring Boot, JPA | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
+| **CRUD com Design Patterns** | Implementação de CRUD utilizando o padrão Builder | Java, Design Patterns | [🔗 GitHub](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder) |
+
+<h1> 📊 GitHub Stats</h1>
 
 <div align="center">
-
-| Projeto | Link |
-|---------|------|
-| **Simulador de Microserviço** | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
-| **Gerenciador de Produtos** | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
-| **Autenticação via JWT** | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
-| **Desafio Técnico EVEO** | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
-| **CRUD com Design Patterns (Builder)** | [🔗 GitHub](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Herikkou&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikkou&layout=compact&langs_count=8&theme=react&hide_border=true" height="170" />
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herikkou&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikkou&layout=compact&langs_count=8&theme=radical" height="160" />
-</div>
-
----
-
-## 📫 Contato
+<h1>📫 Entre em Contato</h1>
 
 <p align="center">
-📧 Email: herikkou@gmail.com  <br>
-🔗 LinkedIn: <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>
+  <a href="mailto:herikkou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-herikkou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/herik-kato-a0364b324">
+    <img src="https://img.shields.io/badge/LinkedIn-Herik_Kato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Herikkou">
+    <img src="https://img.shields.io/badge/GitHub-Herikkou-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1E88E5&height=100&section=footer&text=&fontSize=0" width="100%" />
+</p>
