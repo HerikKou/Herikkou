@@ -76,10 +76,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC, apaixonado p
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| **Simulador de Microservi￧o** | Implementa￧￣o de arquitetura de microsserviços com comunicação entre APIs | Java (puro) | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
+| **Simulador de Microserviço** | Implementação de arquitetura de microsserviços com comunicação entre APIs | Java (puro) | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
 | **Gerenciador de Produtos** | Sistema CRUD completo para gerenciamento de produtos com autenticação | Java, Spring Boot, JPA, MySQL | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
-| **Autentica￧￣o via JWT** | Sistema de autenticação segura utilizando tokens JWT | Java, Spring Security, JWT | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
-| **Desafio T￩cnico EVEO** | Solução para desafio técnico com implementação de API REST | Java, Spring Boot, JPA | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
+| **Autenticação via JWT** | Sistema de autenticação segura utilizando tokens JWT | Java, Spring Security, JWT | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
+| **Desafio Técnico EVEO** | Solução para desafio técnico com implementação de API REST | Java, Spring Boot, JPA | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
 | **CRUD com Design Patterns** | Implementação de CRUD utilizando o padrão Builder | Java, Design Patterns | [🔗 GitHub](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder) |
 
 <h1> 📊 GitHub Stats</h1>
