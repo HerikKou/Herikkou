@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="220" align="right" style="margin-left: 50px;" />
 
-<p><em>Transformando lógica em soluções reais. focado em backend e aprendizado contínuo.</em></p>
+<p><em>Transformando lógica em soluções reais. Focado em backend e aprendizado contínuo.</em></p>
 
 <div align="center">
   <a href="https://github.com/Herikkou">
@@ -23,7 +23,9 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC, apaixonado por backend com **Java** e criação de APIs REST escaláveis.  
 Busco criar soluções robustas e eficientes, prezando por **organização**, **qualidade de código** e **boas práticas**.  
-Atualmente estudando **arquitetura de software**, **testes automatizados** e **integração com bancos de dados**.
+Atualmente estudando **arquitetura de software**, **testes automatizados** e **integração com bancos de dados**.  
+
+
 
 ---
 
@@ -53,7 +55,7 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 <p align="center">
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" />
-
+</p>
 
 ---
 
@@ -61,13 +63,13 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 
 <div align="center">
 
-| Projeto                                    | Link |
-|--------------------------------------------|------|
+| Projeto | Link |
+|---------|------|
 | **Simulador de Microserviço** | [🔗 GitHub](https://github.com/HerikKou/simulador-Microservico-Java) |
-| **Gerenciador de produtos**                   | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
-| **Authenticação via JWT**                         | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
-| **Desafio Tecnico EVEO**                                 | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
-| **Design Patterns(Builder)-Java**                       | [🔗 GitHub](https://github.com/Herikkou/churrascaria-html-css](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder ) |
+| **Gerenciador de Produtos** | [🔗 GitHub](https://github.com/HerikKou/Gerenciador-de-Produtos) |
+| **Autenticação via JWT** | [🔗 GitHub](https://github.com/HerikKou/Autentica-o-via-JWT-token-) |
+| **Desafio Técnico EVEO** | [🔗 GitHub](https://github.com/HerikKou/Desafio-Java--EVEO) |
+| **CRUD com Design Patterns (Builder)** | [🔗 GitHub](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder) |
 
 </div>
 
@@ -88,4 +90,5 @@ Atualmente estudando **arquitetura de software**, **testes automatizados** e **i
 📧 Email: herikkou@gmail.com  <br>
 🔗 LinkedIn: <a href="https://linkedin.com/in/herik-kato-a0364b324" target="_blank">linkedin.com/in/herik-kato-a0364b324</a>
 </p>
+
 
