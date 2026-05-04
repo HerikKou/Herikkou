@@ -1,8 +1,6 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║            README — Herik Kato · Backend Developer           ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+
+<img width="1536" height="672" alt="image" src="https://github.com/user-attachments/assets/18f241b7-6389-40d3-bddd-94a435470138" />
+
 
 <div align="center">
 
