@@ -1,15 +1,10 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║            README — Herik Kato · Backend Developer           ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+
+
 
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/HerikKou/HerikKou/main/banner.svg"
-     alt="Herik Kato — Backend Developer"
-     width="100%"/>
+<img width="1742" height="493" alt="image" src="https://github.com/user-attachments/assets/0f18624a-4e40-40db-8d2f-7252d1704139" />
 
 <br/><br/>
 
@@ -36,7 +31,7 @@
 
 Desenvolvedor backend com foco em **Java + Spring Boot**, com experiência prática em arquitetura de **microsserviços**, mensageria com **Apache Kafka**, observabilidade com **Datadog** e containerização com **Docker**.
 
-Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade de Mogi das Cruzes (UMC). Tenho background em bootcamp intensivo com trabalho em equipe real — modelagem de dados, controle de acesso, testes, documentação e divisão de responsabilidades. Sigo boas práticas no dia a dia: código limpo, testes automatizados, documentação técnica e integração contínua.
+Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade de Mogi das Cruzes (UMC). Tenho experiência em bootcamp intensivo com trabalho em equipe real ,modelagem de dados, controle de acesso, testes, documentação e divisão de responsabilidades. Sigo boas práticas no dia a dia: código limpo, testes automatizados, documentação técnica e integração contínua.
 
 Minha evolução tem sido guiada por projetos reais onde performance, rastreabilidade e qualidade não são opcionais.
 
