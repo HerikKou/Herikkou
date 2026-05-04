@@ -151,45 +151,10 @@ Implementação de autenticação e autorização segura com tokens **JWT** e **
 
 ---
 
-### 📦 Gerenciador de Produtos
-> **Repositório:** [github.com/HerikKou/Gerenciador-de-Produtos](https://github.com/HerikKou/Gerenciador-de-Produtos)
 
-API REST completa para gerenciamento de produtos com CRUD, autenticação e persistência.
-
-`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `REST`
-
----
-
-### 🧩 CRUD com Design Patterns (Builder)
-> **Repositório:** [github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder](https://github.com/HerikKou/CRUD-em-Java-com-Design-Patterns--Builder)
-
-Estudo prático de **padrões de projeto** aplicados a operações CRUD — com foco no padrão **Builder** para construção de objetos complexos.
-
-`Java` `Design Patterns` `Clean Code`
-
----
-
-### 🏆 Desafio Técnico EVEO
-> **Repositório:** [github.com/HerikKou/Desafio-Java--EVEO](https://github.com/HerikKou/Desafio-Java--EVEO)
-
-Solução completa para desafio técnico de processo seletivo, com API REST estruturada, validações e documentação.
-
-`Java` `Spring Boot` `JPA` `REST`
-
----
 
 ## GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Herikkou&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&title_color=6DB33F&icon_color=2E75B6"
-    height="175"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herikkou&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=8&title_color=6DB33F"
-    height="175"
-  />
-</div>
 
 <div align="center">
   <img
