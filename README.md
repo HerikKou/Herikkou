@@ -30,7 +30,7 @@
 
 Desenvolvedor backend com foco em **Java + Spring Boot**, com experiência prática em arquitetura de **microsserviços**, mensageria com **Apache Kafka**, observabilidade com **Datadog** e containerização com **Docker**.
 
-Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade de Mogi das Cruzes (UMC). Tenho background em bootcamp intensivo com trabalho em equipe real — modelagem de dados, controle de acesso, testes, documentação e divisão de responsabilidades. Sigo boas práticas no dia a dia: código limpo, testes automatizados, documentação técnica e integração contínua.
+Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade de Mogi das Cruzes (UMC). Tenho background em bootcamp intensivo com trabalho em equipe real , modelagem de dados, controle de acesso, testes, documentação e divisão de responsabilidades. Sigo boas práticas no dia a dia: código limpo, testes automatizados, documentação técnica e integração contínua.
 
 Minha evolução tem sido guiada por projetos reais onde performance, rastreabilidade e qualidade não são opcionais.
 
