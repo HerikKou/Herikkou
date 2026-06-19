@@ -45,7 +45,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade de Mogi 
 </tr>
 <tr>
 <td><b>📍 Localização</b></td>
-<td>São Paulo, SP — disponível para remoto ou híbrido</td>
+<td>São Paulo, SP — disponível para presencial,remoto ou híbrido</td>
 </tr>
 <tr>
 <td><b>✅ Status</b></td>
