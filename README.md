@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1742" height="493" alt="Banner Herik Kato" src="https://github.com/user-attachments/assets/0f18624a-4e40-40db-8d2f-7252d1704139" />
+<img width="2172" height="724" alt="Portfólio Backend Futurista em Neon" src="https://github.com/user-attachments/assets/fa98ef44-661a-417d-8c29-1ce7d12816a4" />
+
 
 <br/><br/>
 
